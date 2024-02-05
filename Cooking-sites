@@ -5,7 +5,8 @@
 ! homepage — https://github.com/buzzoruzky/Brave-Goggles
 ! issues — https://github.com/buzzoruzky/Brave-Goggles/issues
 
-|https://www.growforagecookferment.com/
+$discard
+$site=https://www.growforagecookferment.com/,boost=2
 ! $site=brave.com
 ! $site=brave.com
 ! $site=brave.com
