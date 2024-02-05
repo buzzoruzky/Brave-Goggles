@@ -5,6 +5,7 @@
 ! homepage — https://github.com/buzzoruzky/Brave-Goggles
 ! issues — https://github.com/buzzoruzky/Brave-Goggles/issues
 
+$discard
 $boost=10,site=growforagecookferment.com
 $boost=10,site=farmhouseonboone.com
 $boost=10,site=theclevercarrot.com
