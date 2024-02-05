@@ -6,7 +6,7 @@
 ! issues — https://github.com/buzzoruzky/Brave-Goggles/issues
 
 $discard
-$site=https://www.growforagecookferment.com/,boost=2
+$site=growforagecookferment.com,boost=2
 ! $site=brave.com
 ! $site=brave.com
 ! $site=brave.com
