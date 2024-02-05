@@ -5,11 +5,10 @@
 ! homepage — https://github.com/buzzoruzky/Brave-Goggles
 ! issues — https://github.com/buzzoruzky/Brave-Goggles/issues
 
-$discard
-$boost=3,site=growforagecookferment.com
-$boost=3,site=farmhouseonboone.com
-$boost=3,site=theclevercarrot.com
-$boost=3,site=themodernproper.com
+$boost=10,site=growforagecookferment.com
+$boost=10,site=farmhouseonboone.com
+$boost=10,site=theclevercarrot.com
+$boost=10,site=themodernproper.com
 
 
 
