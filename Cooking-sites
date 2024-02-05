@@ -7,12 +7,10 @@
 
 $discard
 $boost=3,site=growforagecookferment.com
-! $site=brave.com
-! $site=brave.com
-! $site=brave.com
-! $site=brave.com
-! $site=brave.com
-! $site=brave.com
-! $site=brave.com
+$boost=3,site=farmhouseonboone.com
+$boost=3,site=theclevercarrot.com
+$boost=3,site=themodernproper.com
+
+
 
 
